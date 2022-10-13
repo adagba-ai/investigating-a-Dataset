@@ -13,7 +13,7 @@
 
 ## Summary of Findings
 
->  An analysis is performed on over 100k medical appointments data in Brazil to determined if patients will show up for their appointment. Factors such as Is the Patient enrolled in Brasilian welfare program Bolsa Família?. Did the Patient recieved a Short Message Service (SMS)?. Is the Patient diagnosed of any illness?. How old is a Patient? 
+>  An analysis was performed on over 100k medical appointments data in Brazil to determined if patients will show up for their appointment. Factors such as Is the Patient enrolled in Brasilian welfare program Bolsa Família?. Did the Patient recieved a Short Message Service (SMS)?. Is the Patient diagnosed of any illness?. How old is a Patient? 
 
 >The step taken during the  data exploration process involve looking at one variable at a time, and then following it up by looking at relationships between variables. Our dependent variable is showing up for a schedule appointment or Not
 
